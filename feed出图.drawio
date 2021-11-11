@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T10:01:17.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="I9hbsBKcyn6ceSSDEEhu" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T12:13:21.565Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-skqEwh8VYlNJK7JJkcw" version="15.7.3" type="github">
   <diagram id="YZnyMSXSnCEE_CymccfS" name="Page-1">
-    <mxGraphModel dx="1554" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1828" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,18 +218,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g8iUTo1PRh5J7QxqeXhu-77" value="相关性模块伪代码" style="swimlane;align=center;" parent="1" vertex="1">
-          <mxGeometry x="682" y="550" width="280" height="240" as="geometry">
+          <mxGeometry x="682" y="550" width="335" height="260" as="geometry">
             <mxRectangle x="580" y="340" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g8iUTo1PRh5J7QxqeXhu-80" value="if 人脸信息存在&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;人脸和term匹配&amp;nbsp; &amp;nbsp; 标记&lt;br&gt;elif ocr存在&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;ocr和term匹配&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;标记&lt;br&gt;elif 协同语义label存在&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;协同语义label和 term 匹配&amp;nbsp; &amp;nbsp;标记&lt;br&gt;else&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;图文一致性，输入图片和term，网络输出&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;结果高于阈值&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;标记&lt;br&gt;&lt;br&gt;综合标记结果得到score3 = f(标记结果)&lt;br&gt;&amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="g8iUTo1PRh5J7QxqeXhu-77" vertex="1">
-          <mxGeometry x="20" y="50" width="260" height="170" as="geometry" />
+        <mxCell id="g8iUTo1PRh5J7QxqeXhu-80" value="for 图片&lt;br&gt;&lt;span&gt;	&lt;/span&gt;for term list&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;if 人脸信息存在&lt;br&gt;&lt;span&gt; &lt;span&gt;	&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;人脸和term匹配&amp;nbsp; &amp;nbsp; 标记&lt;br&gt;elif ocr存在&lt;br&gt;&lt;span&gt; &lt;span&gt;	&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;ocr和term匹配&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;标记&lt;br&gt;elif 协同语义label存在&lt;br&gt;&lt;span&gt; &lt;span&gt;	&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;协同语义label和 term 匹配&amp;nbsp; &amp;nbsp;标记&lt;br&gt;else&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span&gt; &lt;/span&gt;图文一致性，输入图片和term，网络输出&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span&gt; &lt;/span&gt;结果高于阈值&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;标记&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;综合标记结果得到score3 = f(标记结果)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="g8iUTo1PRh5J7QxqeXhu-77" vertex="1">
+          <mxGeometry x="25" y="55" width="310" height="190" as="geometry" />
         </mxCell>
         <mxCell id="g8iUTo1PRh5J7QxqeXhu-86" value="输入信息：人脸信息、ocr、协同语义、图片、term" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="g8iUTo1PRh5J7QxqeXhu-77" vertex="1">
           <mxGeometry y="30" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g8iUTo1PRh5J7QxqeXhu-87" value="输出信息：score3" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="g8iUTo1PRh5J7QxqeXhu-77" vertex="1">
-          <mxGeometry y="220" width="110" height="20" as="geometry" />
+          <mxGeometry y="240" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g8iUTo1PRh5J7QxqeXhu-88" value="feed相关性推全版本整体策略" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="140" y="230" width="360" height="40" as="geometry" />
@@ -401,21 +401,21 @@
         <mxCell id="g8iUTo1PRh5J7QxqeXhu-184" value="输出图片排序结果" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="145" y="1540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HsDYmaw-ZfLvcHOW2-2q-2" value="协同语义模块伪代码" style="swimlane;align=center;" vertex="1" parent="1">
+        <mxCell id="HsDYmaw-ZfLvcHOW2-2q-2" value="协同语义模块伪代码" style="swimlane;align=center;" parent="1" vertex="1">
           <mxGeometry x="610" y="90" width="355" height="170" as="geometry">
             <mxRectangle x="580" y="340" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HsDYmaw-ZfLvcHOW2-2q-3" value="step1：找到相似图片对应的正排信息&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;方法：通过图片指纹信息 和 库里面图片匹配&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;问题：匹配时是和所有图片，还是和文本的top3/top1&lt;br&gt;&lt;br&gt;step2：label = f(news attention,&amp;nbsp; 标题的分词信息)&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HsDYmaw-ZfLvcHOW2-2q-2">
+        <mxCell id="HsDYmaw-ZfLvcHOW2-2q-3" value="step1：找到相似图片对应的正排信息&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;方法：通过图片指纹信息 和 库里面图片匹配&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;问题：匹配时是和所有图片，还是和文本的top3/top1&lt;br&gt;&lt;br&gt;step2：label = f(news attention,&amp;nbsp; 标题的分词信息)&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HsDYmaw-ZfLvcHOW2-2q-2" vertex="1">
           <mxGeometry x="5" y="65" width="350" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HsDYmaw-ZfLvcHOW2-2q-4" value="输入信息：图片&amp;nbsp; 和&amp;nbsp; 正排库" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HsDYmaw-ZfLvcHOW2-2q-2">
+        <mxCell id="HsDYmaw-ZfLvcHOW2-2q-4" value="输入信息：图片&amp;nbsp; 和&amp;nbsp; 正排库" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HsDYmaw-ZfLvcHOW2-2q-2" vertex="1">
           <mxGeometry y="30" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HsDYmaw-ZfLvcHOW2-2q-5" value="输出信息：label" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HsDYmaw-ZfLvcHOW2-2q-2">
+        <mxCell id="HsDYmaw-ZfLvcHOW2-2q-5" value="输出信息：label" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HsDYmaw-ZfLvcHOW2-2q-2" vertex="1">
           <mxGeometry y="150" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HsDYmaw-ZfLvcHOW2-2q-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;opacity=50;" edge="1" parent="1">
+        <mxCell id="HsDYmaw-ZfLvcHOW2-2q-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;opacity=50;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="390" as="sourcePoint" />
             <mxPoint x="650" y="260" as="targetPoint" />
