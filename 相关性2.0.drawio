@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-21T15:56:07.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="GRKYOAxpp9MzZCujNfjQ" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T06:51:59.357Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="mmyBa8XTxOLK2lo0OvXO" version="15.8.2" type="github">
   <diagram id="J9MYOVlcLSbenYal1-ZK" name="Page-1">
-    <mxGraphModel dx="1577" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,6 +69,39 @@
         </mxCell>
         <mxCell id="q4uMH3ldNayofh-_5lqI-28" value="协同语义/图文一致性模型过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="540" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q4uMH3ldNayofh-_5lqI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q4uMH3ldNayofh-_5lqI-31" target="q4uMH3ldNayofh-_5lqI-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q4uMH3ldNayofh-_5lqI-31" value="标题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="680" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q4uMH3ldNayofh-_5lqI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q4uMH3ldNayofh-_5lqI-32" target="q4uMH3ldNayofh-_5lqI-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q4uMH3ldNayofh-_5lqI-32" value="正文的关键词（News attention）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="680" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q4uMH3ldNayofh-_5lqI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q4uMH3ldNayofh-_5lqI-33" target="q4uMH3ldNayofh-_5lqI-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q4uMH3ldNayofh-_5lqI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q4uMH3ldNayofh-_5lqI-33" target="q4uMH3ldNayofh-_5lqI-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q4uMH3ldNayofh-_5lqI-33" value="标题党判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="750" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q4uMH3ldNayofh-_5lqI-37" value="term" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384.5" y="850" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q4uMH3ldNayofh-_5lqI-39" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="419" y="820" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q4uMH3ldNayofh-_5lqI-40" value="News attention" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="810" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q4uMH3ldNayofh-_5lqI-42" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="760" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
