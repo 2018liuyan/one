@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T10:57:19.040Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="oU6nhzsSJbroS9d9_4Lg" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T11:11:57.778Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="mjQCgw3z6TK7bpSLp--a" version="15.9.1" type="github">
   <diagram id="J9MYOVlcLSbenYal1-ZK" name="Page-1">
-    <mxGraphModel dx="1151" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1243" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,16 +62,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z0Qd4oBgZnJfvSE2lSYf-26" value="&lt;font style=&quot;background-color: rgb(102 , 178 , 255) ; font-size: 18px&quot; color=&quot;#ffffff&quot;&gt;跨模态：图文一致性模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fillColor=#66B2FF;" parent="1" vertex="1">
-          <mxGeometry x="801.62" y="300" width="290" height="70" as="geometry" />
+          <mxGeometry x="811.61" y="300" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y-tYHx8n9M00GRCmJZ1--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.432;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="z0Qd4oBgZnJfvSE2lSYf-3" target="z0Qd4oBgZnJfvSE2lSYf-26">
+        <mxCell id="Y-tYHx8n9M00GRCmJZ1--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.424;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="z0Qd4oBgZnJfvSE2lSYf-3" target="z0Qd4oBgZnJfvSE2lSYf-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z0Qd4oBgZnJfvSE2lSYf-3" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;标题/正文融合&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fillColor=#66B2FF;" parent="1" vertex="1">
           <mxGeometry x="886.63" y="240" width="79.97" height="25.62" as="geometry" />
         </mxCell>
         <mxCell id="z0Qd4oBgZnJfvSE2lSYf-58" value="&lt;font style=&quot;font-size: 12px&quot;&gt;图文是否相关&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
-          <mxGeometry x="906.0100000000001" y="400" width="90.81" height="20" as="geometry" />
+          <mxGeometry x="906.0100000000001" y="390" width="90.81" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y-tYHx8n9M00GRCmJZ1--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="z0Qd4oBgZnJfvSE2lSYf-61" target="Y-tYHx8n9M00GRCmJZ1--3">
           <mxGeometry relative="1" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="1105.89" y="320" width="159.84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z0Qd4oBgZnJfvSE2lSYf-102" value="&lt;font style=&quot;font-size: 12px&quot;&gt;图文是否相关&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
-          <mxGeometry x="1140.4" y="400" width="90.81" height="20" as="geometry" />
+          <mxGeometry x="1140.4" y="390" width="90.81" height="20" as="geometry" />
         </mxCell>
         <mxCell id="z0Qd4oBgZnJfvSE2lSYf-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="z0Qd4oBgZnJfvSE2lSYf-106" target="z0Qd4oBgZnJfvSE2lSYf-76" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -245,44 +245,26 @@
         <mxCell id="Bx8p000XLSrX6vGeZIqt-5" value="关键词（属性 + 重要度）" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
           <mxGeometry x="569" y="940" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bx8p000XLSrX6vGeZIqt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.163;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Bx8p000XLSrX6vGeZIqt-10" target="Bx8p000XLSrX6vGeZIqt-12" edge="1">
+        <mxCell id="Y-tYHx8n9M00GRCmJZ1--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.221;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="Bx8p000XLSrX6vGeZIqt-10" target="Bx8p000XLSrX6vGeZIqt-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bx8p000XLSrX6vGeZIqt-10" value="标题" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
-          <mxGeometry x="859.8999999999999" y="810" width="80.5" height="30" as="geometry" />
+          <mxGeometry x="906.3699999999999" y="810" width="80.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bx8p000XLSrX6vGeZIqt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bx8p000XLSrX6vGeZIqt-12" target="Bx8p000XLSrX6vGeZIqt-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="919" y="940" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Y-tYHx8n9M00GRCmJZ1--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Bx8p000XLSrX6vGeZIqt-12" target="Bx8p000XLSrX6vGeZIqt-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bx8p000XLSrX6vGeZIqt-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Embeding相似度&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;摘要关键词&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="858.7099999999999" y="870" width="254.19" height="50" as="geometry" />
+        <mxCell id="Bx8p000XLSrX6vGeZIqt-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Embedding相似度&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="900" y="870" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Bx8p000XLSrX6vGeZIqt-14" value="相似句子" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
-          <mxGeometry x="879.1099999999999" y="945" width="80.5" height="30" as="geometry" />
+          <mxGeometry x="964.7499999999999" y="940" width="80.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bx8p000XLSrX6vGeZIqt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.84;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Bx8p000XLSrX6vGeZIqt-15" target="Bx8p000XLSrX6vGeZIqt-12" edge="1">
+        <mxCell id="Y-tYHx8n9M00GRCmJZ1--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.771;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="Bx8p000XLSrX6vGeZIqt-15" target="Bx8p000XLSrX6vGeZIqt-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bx8p000XLSrX6vGeZIqt-15" value="正文/摘要" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
-          <mxGeometry x="1031.21" y="810" width="80.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Bx8p000XLSrX6vGeZIqt-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;opacity=10;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="866.82" y="880" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Bx8p000XLSrX6vGeZIqt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" target="Bx8p000XLSrX6vGeZIqt-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1066" y="920" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bx8p000XLSrX6vGeZIqt-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;opacity=10;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="880" width="91.71" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Bx8p000XLSrX6vGeZIqt-22" value="关键词" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
-          <mxGeometry x="1025.6" y="945" width="80.5" height="30" as="geometry" />
+          <mxGeometry x="1021.62" y="810" width="80.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y-tYHx8n9M00GRCmJZ1--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="Y-tYHx8n9M00GRCmJZ1--3" target="z0Qd4oBgZnJfvSE2lSYf-3">
           <mxGeometry relative="1" as="geometry" />
@@ -290,8 +272,7 @@
         <mxCell id="Y-tYHx8n9M00GRCmJZ1--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.164;entryY=-0.032;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="Y-tYHx8n9M00GRCmJZ1--3" target="z0Qd4oBgZnJfvSE2lSYf-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="849" y="200" />
-              <mxPoint x="849" y="260" />
+              <mxPoint x="856" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
