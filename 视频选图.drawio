@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T06:03:17.821Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="CCHCYqEZ_AiZprcc-rxx" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T07:08:33.012Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="j--od0PPzwvZW3lk1wbE" version="15.9.6" type="github">
   <diagram id="czafQkG2z_FzEas7QaTP" name="Page-1">
-    <mxGraphModel dx="1261" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,9 +52,9 @@
             <mxPoint x="940" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pokAoe_vqRN141_JP_Yj-11" value="功能说明" style="swimlane;fontSize=14;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="950" y="30" width="150" height="23" as="geometry">
-            <mxRectangle x="950" y="30" width="390" height="150" as="alternateBounds" />
+        <mxCell id="pokAoe_vqRN141_JP_Yj-11" value="功能说明" style="swimlane;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="950" y="30" width="390" height="150" as="geometry">
+            <mxRectangle x="950" y="30" width="150" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pokAoe_vqRN141_JP_Yj-12" value="功能：从视频中选取封面&lt;br&gt;输出：封面 + 提示信息（是否低质等）&lt;br&gt;（&lt;font color=&quot;#ff9933&quot;&gt;说明：短视频只自动选竖版封面，横版是作者自己传的；&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;小视频只会自动选横版封面，竖版是作者自己传的&lt;/font&gt;）&lt;br&gt;算子：视频选封面&amp;nbsp;&lt;br&gt;代码负责：王靖明&lt;br&gt;架构：是B端的人" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="pokAoe_vqRN141_JP_Yj-11">
@@ -69,7 +69,7 @@
         <mxCell id="pokAoe_vqRN141_JP_Yj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="pokAoe_vqRN141_JP_Yj-18" target="pokAoe_vqRN141_JP_Yj-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pokAoe_vqRN141_JP_Yj-18" value="&lt;font style=&quot;font-size: 14px&quot;&gt;搜索抓取：视频 + 封面（横版 + 竖版）&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pokAoe_vqRN141_JP_Yj-18" value="&lt;font style=&quot;font-size: 14px&quot;&gt;搜索抓取：视频 + 封面（横版 or 竖版）&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="520" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pokAoe_vqRN141_JP_Yj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="pokAoe_vqRN141_JP_Yj-20" target="pokAoe_vqRN141_JP_Yj-22">
