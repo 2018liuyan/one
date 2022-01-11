@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T07:18:55.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="NonV3kwarAbWEuGESB12" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T07:20:25.286Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="kXEMBwDuQZZBbMcE5gCU" version="16.1.4" type="github">
   <diagram id="hWNafZOtgDDPXVln5Tpz" name="Page-1">
     <mxGraphModel dx="1151" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
         <mxCell id="i5rJ01WgzXwHkT8kXXQp-4" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;图片理解技术&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;ul style=&quot;line-height: 1.4&quot;&gt;&lt;li&gt;图片智能剪裁&lt;/li&gt;&lt;li&gt;低质过滤&lt;/li&gt;&lt;li&gt;选图策略&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="580" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="i5rJ01WgzXwHkT8kXXQp-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;自有产品接入&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;知道、&lt;/li&gt;&lt;li&gt;文库、&lt;/li&gt;&lt;li&gt;贴吧等多个业务接入&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="i5rJ01WgzXwHkT8kXXQp-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;自有产品接入&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;知道、&lt;/li&gt;&lt;li&gt;文库、&lt;/li&gt;&lt;li&gt;贴吧&lt;/li&gt;&lt;li&gt;百科等多个自有业务接入&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="530" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="i5rJ01WgzXwHkT8kXXQp-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;网络抓取&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -154,13 +154,13 @@
         <mxCell id="i5rJ01WgzXwHkT8kXXQp-20" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;在线新通路&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;ul style=&quot;line-height: 1.4&quot;&gt;&lt;li&gt;架构上，打通在线新通路&lt;/li&gt;&lt;li&gt;出图策略配合架构调整&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="585" width="120" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="i5rJ01WgzXwHkT8kXXQp-22" value="&lt;font color=&quot;#ffffff&quot;&gt;离线策略&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=0.5;fillColor=#990000;strokeColor=#990000;" vertex="1" parent="1">
+        <mxCell id="i5rJ01WgzXwHkT8kXXQp-22" value="&lt;font color=&quot;#ffffff&quot;&gt;离线模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=0.5;fillColor=#990000;strokeColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="510" y="460" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i5rJ01WgzXwHkT8kXXQp-23" value="&lt;font color=&quot;#ffffff&quot;&gt;在线策略&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=0.5;fillColor=#990000;strokeColor=#990000;" vertex="1" parent="1">
+        <mxCell id="i5rJ01WgzXwHkT8kXXQp-23" value="&lt;font color=&quot;#ffffff&quot;&gt;在线模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=0.5;fillColor=#990000;strokeColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="870" y="460" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i5rJ01WgzXwHkT8kXXQp-24" value="&lt;ul style=&quot;line-height: 2&quot;&gt;&lt;li&gt;搜索自然结果&lt;/li&gt;&lt;li&gt;资讯&lt;/li&gt;&lt;li&gt;搜索视频&lt;/li&gt;&lt;li&gt;直播&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="i5rJ01WgzXwHkT8kXXQp-24" value="&lt;ul style=&quot;line-height: 2&quot;&gt;&lt;li&gt;搜索自然结果&lt;/li&gt;&lt;li&gt;资讯&lt;/li&gt;&lt;li&gt;搜索视频&lt;/li&gt;&lt;li&gt;直播&lt;/li&gt;&lt;li&gt;搜索出图浏览态等&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="560" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="i5rJ01WgzXwHkT8kXXQp-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=18;fontColor=#FFFFFF;strokeColor=#000000;strokeWidth=0.5;" edge="1" parent="1">
@@ -190,7 +190,7 @@
             <mxPoint x="1050.0000000000002" y="614.6300000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i5rJ01WgzXwHkT8kXXQp-31" value="&lt;font color=&quot;#ffffff&quot;&gt;资 源 接 入&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=0.5;fillColor=#990000;strokeColor=#990000;" vertex="1" parent="1">
+        <mxCell id="i5rJ01WgzXwHkT8kXXQp-31" value="&lt;font color=&quot;#ffffff&quot;&gt;资源接入&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=0.5;fillColor=#990000;strokeColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="280" y="460" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i5rJ01WgzXwHkT8kXXQp-32" value="&lt;font color=&quot;#ffffff&quot;&gt;业务支持&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=0.5;fillColor=#990000;strokeColor=#990000;" vertex="1" parent="1">
