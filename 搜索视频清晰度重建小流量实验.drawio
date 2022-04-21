@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T08:38:47.166Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="17.4.5" etag="u0bCI7DqD4gHrrm-6WFZ" type="github"><diagram id="SOpJ8DS3td_gJ-zZRhB9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-21T08:44:43.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="fYb306iQpxgzIgGPprp2" version="17.4.5" type="github">
+  <diagram id="SOpJ8DS3td_gJ-zZRhB9" name="Page-1">
+    <mxGraphModel dx="823" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C_KxkX2DTJySt9NBjGAx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C_KxkX2DTJySt9NBjGAx-1" target="C_KxkX2DTJySt9NBjGAx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_KxkX2DTJySt9NBjGAx-1" value="通过清晰度重建得到新的视频&lt;br&gt;（王晓浩）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="60" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_KxkX2DTJySt9NBjGAx-2" value="搜索视频小流量实验" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="10" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C_KxkX2DTJySt9NBjGAx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=-0.086;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C_KxkX2DTJySt9NBjGAx-3" target="C_KxkX2DTJySt9NBjGAx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_KxkX2DTJySt9NBjGAx-3" value="上传boss得到视频url" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_KxkX2DTJySt9NBjGAx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C_KxkX2DTJySt9NBjGAx-4" target="C_KxkX2DTJySt9NBjGAx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_KxkX2DTJySt9NBjGAx-4" value="在视频摘要对应字段写入视频url&lt;br&gt;（陆小青）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="200" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_KxkX2DTJySt9NBjGAx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C_KxkX2DTJySt9NBjGAx-5" target="C_KxkX2DTJySt9NBjGAx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_KxkX2DTJySt9NBjGAx-5" value="搜索视频架构透穿&lt;br&gt;（李天龙）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="270" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_KxkX2DTJySt9NBjGAx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C_KxkX2DTJySt9NBjGAx-10" target="C_KxkX2DTJySt9NBjGAx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_KxkX2DTJySt9NBjGAx-10" value="搜索产品研发&lt;br&gt;（刘建明）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="340" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_KxkX2DTJySt9NBjGAx-12" value="端上同学展现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="410" width="180" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
