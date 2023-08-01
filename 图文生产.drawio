@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T03:26:50.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="TnNoimOjNDRQKaXw9CUl" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T03:28:55.334Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="JNtw0uWGhYfBzoGtnx_I" version="21.6.5" type="github">
   <diagram id="NOVO8gDPz_ABOc9ci7kb" name="第 1 页">
-    <mxGraphModel dx="1116" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2231" dy="1159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,9 +148,6 @@
         </mxCell>
         <mxCell id="MoFJigNYc32u-qZ5C_EA-2" value="Blip caption" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="890" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MoFJigNYc32u-qZ5C_EA-4" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="700" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MoFJigNYc32u-qZ5C_EA-5" value="prompt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="890" width="80" height="40" as="geometry" />
